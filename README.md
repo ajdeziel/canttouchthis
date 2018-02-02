@@ -4,6 +4,8 @@
 A secure instant-messaging application based on the Java Cryptographic
 Architecture.
 
+Full documentation is available on [Google Docs](https://docs.google.com/document/d/1ovLY38WlTTe2yK5TAR8wHgd8-1NO2oRiRU_RBsrm-Gs/edit?usp=sharing).
+
 ## Running from Source
 The application consists of a client and server. The included Gradle wrapper
 can be used to build and run either.
