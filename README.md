@@ -6,6 +6,11 @@ Architecture.
 
 Full documentation is available on [Google Docs](https://docs.google.com/document/d/1ovLY38WlTTe2yK5TAR8wHgd8-1NO2oRiRU_RBsrm-Gs/edit?usp=sharing).
 
+**Authored by**:
+* [@ajdeziel](https://github.com/ajdeziel)
+* [@wilson496](https://github.com/wilson496)
+* [@CDFriend](https://github.com/CDFriend)
+
 ## Running from Source
 The application consists of a client and server. The included Gradle wrapper
 can be used to build and run either.
